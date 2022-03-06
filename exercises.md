@@ -18,3 +18,24 @@ Generally, I use my macbook pro, iphone and physical journal to write in. Most o
 
 #### How do these tools shape the way you write(e.g., constrain the way you write or facilitate your writing?) 
 I think these technological tools shape my writing profoundly, and in most ways, subconciously. I feel as if I have a greater tendency to edit my work and constantly change it, where technology has made me a lot more judgemental of my writing. Differently, when I write in a notebook, I find myself trying to write perfectly because I aim to not make any mistakes from the beginning. I can be a perfectionist in terms of the aesthetic and the tidiness of the pages, thus affecting the process of my writing. 
+
+
+## Week 2
+
+notes on Electronic Literature Collection:
+[Ars poetica] 
+→ words in motion, non-linear, static 
+→ “a text that is born and dies while reading it”
+→ there is a play button, pause button, and a rewind button that presents the poetic simulation backwards
+
+Quing’s Quest
+→ the words that you can press sparkle and lead you to a new (silly and fun) subject matter 
+→ each word that you can press affects your future (clothing, love interest, 
+→ “Social Justice Warrior” (after a commonly-used pejorative term for those who point out misogyny, racism, transphobia and many other forms of discrimination and hatred online and in gaming culture), and features a character exiled from Videogames after the invasion of the “misogynerds.”
+→ “there’s music, sound effects, incisive social commentary, old-school adventure game references, a cute genderfluid pirate NPC, a working toilet, and glitter”
+
+With Those We Love Alive 
+→ “Porpentine’s With Those We Love Alive is a Twine game that invites the reader to become physically involved through marking up their own body with symbols throughout play.”
+→ you can create your own identity from birth where there is hidden meanings through objects (e.g, plants) you can access different rooms and create your own future 
+
+High Muck a Muck 
