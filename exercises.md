@@ -26,7 +26,9 @@ I think these technological tools shape my writing profoundly, and in most ways,
 Electronic literature's major difference from print literature is the fact that it exludes print, has been developed in a digitalised form and ultimately utilised on a computer or another electronic device. Generally, electronic literature primarily centralises around "hypertext fiction, network fiction, interactive fiction, installation pieces, "codework" and generative art." (Hayles, K 2007). 
 
 #### What are some of the qualities of electronic literature? 
-
+- whilst reading Quing's Quest I specifically noticed the correlation of political matters and the digitialised aesthetics and content. As Quing's Quest focalises on socio-political issues such as discrimination and transphobia, I instantly noticed the 
+- agency to create your own identity 
+- 
 ### notes on Electronic Literature Collection:
 
 #### [Ars poetica] 
