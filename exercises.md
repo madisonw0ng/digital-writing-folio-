@@ -28,7 +28,15 @@ Electronic literature's major difference from print literature is the fact that 
 #### What are some of the qualities of electronic literature? 
 - whilst reading Quing's Quest I specifically noticed the correlation of political matters and the digitialised aesthetics and content. As Quing's Quest focalises on socio-political issues such as discrimination and transphobia, I instantly noticed the 
 - agency to create your own identity 
-- 
+
+##### Remix Questions: Taroko Gorge & Eric Snodgrass 
+
+###### What aspect of the remixes are the same?
+
+###### What aspect of the remix are different?
+
+###### Is the remix successful? (why or why not?) 
+
 ### notes on Electronic Literature Collection:
 
 #### [Ars poetica] 
