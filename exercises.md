@@ -22,6 +22,11 @@ I think these technological tools shape my writing profoundly, and in most ways,
 
 ## Week 2
 
+### How is electronic literature different from print literature?
+Electronic literature's major difference from print literature is the fact that it exludes print, has been developed in a digitalised form and ultimately utilised on a computer or another electronic device. Generally, electronic literature primarily centralises around "hypertext fiction, network fiction, interactive fiction, installation pieces, "codework" and generative art." (Hayles, K 2007). 
+
+#### What are some of the qualities of electronic literature? 
+
 ### notes on Electronic Literature Collection:
 
 #### [Ars poetica] 
