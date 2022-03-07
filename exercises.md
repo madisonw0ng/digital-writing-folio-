@@ -32,10 +32,14 @@ Electronic literature's major difference from print literature is the fact that 
 ##### Remix Questions: Taroko Gorge & Eric Snodgrass 
 
 ###### What aspect of the remixes are the same?
+Structually, 
 
 ###### What aspect of the remix are different?
+- To begin with, Taroko Gorge & Eric Snodgrass utilise different themes within their pieces. Gorge centralises his work around the natural environment of a canyon located in Taiwan's Taroko National Park, whereas Snodgrass applies a witty sexualised theme that ultimately does not make much sense. For example, he says in his digitalised poem that "the generator sucks the thighs" and "John teases the grapefruit..."   
+- Another difference was the speed of the poems, where Gorge's lines moved at a slow pace and Snodgrass' moved rapdily. I believe this is so due to the theme of the poems. Gorge's aimed to reflect a calm, natural setting that's meditative and Snodgrass' incorporates a bizarre use of language that seems as if it's constantly leading to a climax in the non-linear poem.  
 
-###### Is the remix successful? (why or why not?) 
+###### Is the remix successful? (why or why not?)
+- I think Snodgrass' piece is successful as a remix because it still 
 
 ### notes on Electronic Literature Collection:
 
