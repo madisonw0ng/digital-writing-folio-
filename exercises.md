@@ -39,7 +39,7 @@ Structually,
 - Another difference was the speed of the poems, where Gorge's lines moved at a slow pace and Snodgrass' moved rapdily. I believe this is so due to the theme of the poems. Gorge's aimed to reflect a calm, natural setting that's meditative and Snodgrass' incorporates a bizarre use of language that seems as if it's constantly leading to a climax in the non-linear poem.  
 
 ###### Is the remix successful? (why or why not?)
-- I think Snodgrass' piece is successful as a remix because it still 
+- I think Snodgrass' piece is successful as a remix because it reflects Taroko Gorge's poem in terms of it's functions and aesthetic appearance. It's 
 
 ### notes on Electronic Literature Collection:
 
