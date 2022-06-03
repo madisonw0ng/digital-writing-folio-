@@ -5,8 +5,8 @@
 - [x] Create GitHub account
 - [x] Do the GitHub 'Hello World'
 - [x] Add a repository for the folio
-- [ ] What tools (or technique) do you use to write?
-- [ ] How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing?) 
+- [x] What tools (or technique) do you use to write?
+- [x] How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing?) 
 
 ### Questions 
 
@@ -29,14 +29,18 @@ Electronic literature's major difference from print literature is the fact that 
 - whilst reading Quing's Quest I specifically noticed the correlation of political matters and the digitialised aesthetics and content. As Quing's Quest focalises on socio-political issues such as discrimination and transphobia, I instantly noticed the 
 - agency to create your own identity 
 
-##### Remix Questions: Taroko Gorge & Eric Snodgrass 
+##### Remix Questions: Taroko Gorge 
 
-###### What aspect of the remixes are the same?
-Structually, 
+Within the second week of class I was introduced to digital poetry, a form of electronic literature that incorporates the use of hypertext, coding, computer-generated animation and other digital elements in order to display and interact with a work. During this class, I was presented with numerous poems that crucially relied on computation, in particular Nick Montfort’s nature poem ‘Taroko Gorge.’ 
 
-###### What aspect of the remix are different?
-- To begin with, Taroko Gorge & Eric Snodgrass utilise different themes within their pieces. Gorge centralises his work around the natural environment of a canyon located in Taiwan's Taroko National Park, whereas Snodgrass applies a witty sexualised theme that ultimately does not make much sense. For example, he says in his digitalised poem that "the generator sucks the thighs" and "John teases the grapefruit..."   
-- Another difference was the speed of the poems, where Gorge's lines moved at a slow pace and Snodgrass' moved rapdily. I believe this is so due to the theme of the poems. Gorge's aimed to reflect a calm, natural setting that's meditative and Snodgrass' incorporates a bizarre use of language that seems as if it's constantly leading to a climax in the non-linear poem.  
+Montfort’s electronic piece is “a mediative journey through a famous canyon in Taiwan’s Taroko National Park” (Montfort, N 2009).  It operates as a generative poem where the work produces newborn stanza’s limitlessly, enabling words flow onto a green backdrop in slow paced intervals. Here, I found that the generated sentences assisted in programming different experiences and meanings for the text, as well as creating symbolic and aesthetic appeals. Ultimately, it shaped the writing in a stimulating fashion, where it kept the reader curious for what there was to come next. 
+
+Observing ‘Taroko Gorge’ has shown me alternative ways to express my own poetry. I learnt that digital poetry is not only created for technological reasoning, yet more with the intention of altering poetic devices such as rhythm, motifs and alliteration. As a result of analysing Montfort’s piece, I hope to crystallise these digital insights and apply them to my own practice of writing. Generally, I enjoy writing poetry concerning mental health, so this has inspired me to create a generative poem based on the waves of thoughts that enter the mind. 
+
+
+###### Reflecting on Nick Monfort and Eric Snodgrass' Remixes
+- To begin with, Nick Monfort & Eric Snodgrass utilise different themes within their pieces. Monfort centralises his work around the natural environment of a canyon located in Taiwan's Taroko National Park, whereas Snodgrass applies a witty sexualised theme that ultimately does not make much sense. For example, he says in his digitalised poem that "the generator sucks the thighs" and "John teases the grapefruit..."   
+- Another difference was the speed of the poems, where Monfort's lines moved at a slow pace and Snodgrass' moved rapdily. I believe this is so due to the theme of the poems. Monfort's aimed to reflect a calm, natural setting that's meditative and Snodgrass' incorporates a bizarre use of language that seems as if it's constantly leading to a climax in the non-linear poem.  
 
 ###### Is the remix successful? (why or why not?)
 - I think Snodgrass' piece is successful as a remix because it reflects Taroko Gorge's poem in terms of it's functions and aesthetic appearance. It's 
@@ -64,10 +68,20 @@ Structually,
 
 - you can create your own identity from birth where there is hidden meanings through objects (e.g, plants) you can access different rooms and create your own future 
 
-###### High Muck a Muck 
+
 
 ## Week 4
 
 ### We Walk to You Remix
 
-[A Family Dinner]
+#### Where the Wild Things Are
+
+Shortly after the introduction to digital poetry, the class was shown how to create a generative poem through the software program Glitch, a web application that was founded in the 2000s by Joel Spolsky, where the application specialises in project management and content management tools, as well as code review tools. 
+
+First, we began by remixing a poem called ‘We Walk to You’ in the Glitch software program, where I replaced the provided words in the source page with my own desired adjectives, nouns and verbs. Here, I created a non-linear poem called ‘Where the Wild Things Are,’ where I chose to centralise my theme around nature and animals. In order to achieve this, I entered ecological words and sentences into the HTML browser, such as “the crystal sea” and “the blazing sun.”  
+Watching my generative poem unfold for the first time was extremely magical, especially because I hadn’t been exposed to such a tool before. It was rather entertaining observing each newborn stanza appear before my eyes, let alone recognising if the sentences made sense or not. In saying that, a fault of this tool could be that a number of sentences generated may not be coherent, however I found that these lines added a sense of humour and obscurity to the poem, rather than spoiling it.
+
+ In total, I thoroughly enjoyed creating and watching the end product of ‘Where the Wild Things Are.’ I found that this exercise assisted me in producing poetry in a different scope, and also helped me understand basic coding techniques in digital literature. I will be definitely coming back to this web application in the future, where I hopefully will be constructing a generative poem in a more artistic approach.
+
+
+
