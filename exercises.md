@@ -84,4 +84,20 @@ Watching my generative poem unfold for the first time was extremely magical, esp
  In total, I thoroughly enjoyed creating and watching the end product of ‘Where the Wild Things Are.’ I found that this exercise assisted me in producing poetry in a different scope, and also helped me understand basic coding techniques in digital literature. I will be definitely coming back to this web application in the future, where I hopefully will be constructing a generative poem in a more artistic approach.
 
 
+## Week 5 
+
+Writing Hypertext Fiction: Hypertext vs Fiction
+
+ How is it different from fiction?
+
+Hypertext fiction differs from fiction in countless ways, however, the main distinction is the fact that hypertext stories are generally characterised by the use of hypertext links, where readers are provided with new links of context that direct them through the narrative. Typically, a reader has agency to read and press on the links that they desire, thus showing how a hypertext fiction can arouse multiple paths of interaction. As for a fictional narrative, the creative work is often limited to a strict structure that does not encourage interactivity, where reader’s study a piece from the beginning, middle and end in a basic order, rather than exploring the writing in a non-linear path. With that being said, hypertext fictions traditionally allow readers to become a character in the story themselves, where they can interact with the narrative in a personalised manner and make specific choices which influence the outcomes of the plot.
+
+What is the difference between planning a fiction and hypertext fiction? 
+
+Planning a hypertext fiction seems to be a more thorough and challenging experience in comparison to planning a general fictional story. This can be seen in the 2013 article by ‘Wired,’ where Steven Johnson claimed that hypertext fictions did not become popular as “non-linear stories are difficult to write, since each section of the work would need to introduce characters or concepts” (Johnson, S 2013). I believe the main difference between planning a hypertext fiction is that each concept established into the story needs to add significant meaning to the narrative outcomes. This definitely makes it trickier to plan because there is a pressure for the creator to maintain the reader’s engagement in each link they press, especially to keep them entertained with the plot to the very end of the narrative. In saying that, I would advise hypertext writers to plan each link carefully. To make sure each link is relevant and engaging to the overall narrative, and to even focus on literary techniques such as foreshadowing, fascinating secondary sources and applicable motifs.
+
+Lastly, a very obvious difference between planning a fiction and a hypertext fiction is the additional focus on the mechanical aspects of code. As fiction can provide photography and images, they are not digitally hyperlinked into the text (for example I only copy and paste images into my documented pieces). With recognition of this, there is a great amount of learning, experimenting and planning into coding, HTML and CSS, where there is technical language to absorb and implement into the narrative.
+
+Johnson, S 2013, Why No One Clicked on the Great Hypertext Story, Wired, viewed 20 May 2022,< https://www.wired.com/2013/04/hypertext/>
+
 
